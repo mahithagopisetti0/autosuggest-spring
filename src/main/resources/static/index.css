@@ -1,29 +1,3 @@
 body {
-  margin: 0;
-}
-
-h1 {
-  color: red;
-}
-
-.navbar {
-  border-style: solid;
-  border-width: 1px;
-  border-color: gray;
-  padding: 20px;
-  text-align: center;
-  background-color: #f8f9fa; 
-}
-
-.navbar a {
-  padding: 10px 20px;
-  text-decoration: none; 
-  color: black;
-  font-size: 20px;
-}
-
-.navbar a:hover {
-  color: white;
-  background-color: #007bff; 
-  border-radius: 5px;
+  background-color: yellow;
 }
