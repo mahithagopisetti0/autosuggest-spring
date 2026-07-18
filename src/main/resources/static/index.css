@@ -1,3 +1,10 @@
-h1{
-    color:aqua;
+div{
+    color:crimson;
+    border:sol id 1px black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
 }
