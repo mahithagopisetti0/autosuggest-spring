@@ -11,20 +11,45 @@ h1 {
   border: 1px solid gray;
   padding: 20px;
   text-align: center;
-  background-color: #f0f0f0; /* light gray background */
+  background-color: #f0f0f0; 
 }
 
 .navbar a {
   padding: 10px 20px;
-  text-decoration: none; /* removes underline */
+  text-decoration: none; 
   color: black;
   font-size: 20px;
-  transition: all 0.3s ease; /* smooth hover */
-}
+  transition: all 0.3s ease; 
 
 .navbar a:hover {
   color: white;
-  background-color: #007bff; /* modern blue hover */
+  background-color: #007bff; 
   border-radius: 5px;
 }
+.card{
+    border: 1px solid black;
+    width: 350px;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 70px;
+    overflow: hidden;
+    /* margin-left: 40%; */
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    background-color: white;
+}
+
+.card img{
+    /* width: 300px; */
+    width: 100%;
+}
+
+.card button{
+    border-style: none;
+    padding: 10px;
+    width: 80%;
+    border-radius: 8px;
+}
+
 
