@@ -6,7 +6,7 @@ h1 {
     color: red;
 }
 
-.navbar{
+.navbar {
     border-style: solid;
     border-width: 1px;
     border-color: gray;
@@ -14,7 +14,7 @@ h1 {
     text-align: center;
 }
 
-.navbar a{
+.navbar a {
     padding: 20px;
     text-decoration: none;
     color: black;
